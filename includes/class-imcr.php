@@ -27,6 +27,7 @@ class imcr {
 
         //scripts
         wp_enqueue_script('imcr-frontend-script', IMCR_URL . 'assets/js/frontend.js');
+        
     }
     
 }

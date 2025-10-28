@@ -26,4 +26,3 @@ function imcr_create_ratings_table() {
     dbDelta($sql);
 }
 
-
